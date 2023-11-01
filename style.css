@@ -1,0 +1,29 @@
+body {
+  background-color: #111111;
+}
+
+h1 {
+  color: #e2e80f;
+  text-align: center;
+  font-size: -webkit-xxx-large;
+}
+
+p {
+  color: #eeeeee;
+  line-height: 2;
+  font-size: 25px;
+}
+
+.credits {
+  color: #49daff;
+  text-decoration: underline;
+  cursor: pointer;
+}
+
+#film-description {
+  font-size: 18px;
+  font-family: "Italiana", sans-serif;
+
+  font-family: "Open Sans", sans-serif;
+  font-family: "Poppins", sans-serif;
+}
